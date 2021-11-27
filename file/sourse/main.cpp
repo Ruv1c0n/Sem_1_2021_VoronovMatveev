@@ -31,6 +31,7 @@ int main() {
 	free_sqr_matrix(res1, size_matrix);
 	free_sqr_matrix(res2, size_matrix);
 	free_sqr_matrix(matrix1, size_matrix);
+	printf("HGHHFHFHFHHFHFHFHFHFHF");
 	return 0;
 }
 // g++ sourse/*.cpp -I headers -o ../product/laba_6_1 -std=c++14
